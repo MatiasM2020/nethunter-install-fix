@@ -33,6 +33,8 @@ Fix this error with this commands
 
 mkdir chroot
 
-mv kali-arm/* chroot/
+mv kali-arm64/* chroot/
+
+./install-nethunter-termux
 
 
